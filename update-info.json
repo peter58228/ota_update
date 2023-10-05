@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Version": "2.0.0",
-      "URL": "https://github.com/peter58228/ota_update/esp32-firmware.bin"
+      "URL": "https://github.com/peter58228/ota_update/blob/main/OTA_Pull_Example.ino.bin"
     }
   ]
 }
